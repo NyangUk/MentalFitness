@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997442665",
+    "project_id": "mentalfitness-17e0e",
+    "storage_bucket": "mentalfitness-17e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997442665:android:b1ff05f349df2e99b58ef8",
+        "android_client_info": {
+          "package_name": "com.company.mentalfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997442665-hlmdrt0hlvqbflciihqhnpok7aketjor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.mentalfitness",
+            "certificate_hash": "6ebbae1a5011678b1a361c77f76330e13d4afaee"
+          }
+        },
+        {
+          "client_id": "997442665-08r1hp1t3522e7247qnncocq2g9uk0ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmXOIvsexhwli0ZmfbFlmOf7lYdOr1Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997442665-08r1hp1t3522e7247qnncocq2g9uk0ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
